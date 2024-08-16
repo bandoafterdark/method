@@ -2,7 +2,7 @@
 
 
 # tiktok phone method
-Make fonted tiktok usernames with this! (forked from 0xf15 and made better)
+ forked from 0xf15 and made better
 
 ## How-to-use
 Tiktok Font IOS Method.
